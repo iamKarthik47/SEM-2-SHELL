@@ -1,0 +1,24 @@
+exit 0
+echo "Largest is $max"
+fi
+  max=$n3
+then
+if [ $n3 -gt $max ]
+
+fi
+  max=$n2
+else
+  max=$n1
+then
+if [ $n1 -gt $n2 ]
+
+n3=$3
+n2=$2
+n1=$1
+
+fi
+   exit 1
+   echo "Syntax error "
+then
+if [ $# -ne 3 ]
+#greatest of 3 numbers
